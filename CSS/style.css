@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap');
+
+
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+
+    color: blue;
+}
+
+.titleJeu {
+
+    display:flex; 
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.titleJeu2 {
+
+    display:flex; 
+    justify-content: space-evenly;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-family: 'nunito';
+    
+}
+
+.dernierResultat {
+    color: white;
+    padding: 3px;
+}
